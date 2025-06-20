@@ -21,8 +21,8 @@ Um clone fiel do clássico Flappy Bird implementado com JavaScript puro e Canvas
 3. Divirta-se!
 
 ```bash
-git clone https://github.com/seu-usuario/flappy-bird-js.git
-cd flappy-bird-js
+git clone https://github.com/matheushollifer/flappy-bird-clone.git
+cd flappy-bird-clone
 start index.html  # Windows
 open index.html   # Mac
 ```
